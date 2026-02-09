@@ -10,9 +10,7 @@ Sometimes I also program games, mobile apps, or ideas just for fun.
 
 My main tech stack includes Python, R, SQL, SAS, and Shell, along with libraries such as Pandas, Scikit-learn, and FastAI. My favorite tools and platforms are Hugging Face and Power BI.
 
-<!--
-I've got a bunch of pinned projects, but one of my favorites is [Dogecoin Time Series Analysis and Forecasting](https://github.com/Daniel-Ro-Santiago/Dogecoin-Time-Series-Analysis-and-Forecasting). 
--->
+I've got a bunch of pinned projects, but one of my favorites is [Dogecoin Time Series Analysis and Forecasting](https://github.com/Daniel-Ro-Santiago/Dogecoin-Time-Series-Analysis-and-Forecasting).
 
 **Facts:**
 
